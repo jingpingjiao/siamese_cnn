@@ -1,6 +1,6 @@
 # User
 .DS_Store
-lfw/
+*.jpg
 models/
 
 # Byte-compiled / optimized / DLL files
