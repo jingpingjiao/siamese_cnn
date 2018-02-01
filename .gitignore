@@ -1,3 +1,8 @@
+# User
+.DS_Store
+lfw/
+models/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
