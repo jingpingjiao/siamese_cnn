@@ -1,0 +1,4 @@
+torch ~= 0.3.0.post4
+torchvision == 0.1.9
+pytz
+opencv-python
